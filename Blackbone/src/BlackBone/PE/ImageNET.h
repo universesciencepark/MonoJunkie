@@ -12,6 +12,8 @@
 #include <atlbase.h>
 #pragma warning(default : 4091)
 
+#include <string>
+
 namespace blackbone
 {
 
